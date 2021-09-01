@@ -6,11 +6,11 @@ Imports System.Windows.Input
 Imports System.Collections.Generic
 
 Namespace DxSample
-    Partial Public Class MainWindow
-        Inherits DXWindow
+	Partial Public Class MainWindow
+		Inherits DXWindow
 
-        Public Sub New()
-            InitializeComponent()
-        End Sub
-    End Class
+		Public Sub New()
+			InitializeComponent()
+		End Sub
+	End Class
 End Namespace
